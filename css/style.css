@@ -975,5 +975,10 @@ textarea#comment::placeholder {
     font-size: x-large;
 }
 
+.card-img{
+    align-items: center;
+    display: flex;
+}
+
 
 /* copyright section end */
